@@ -361,6 +361,10 @@ padding: 0.8rem;
 
 @media(max-width: 700px) {
 
+    .showcase{
+        height: auto;
+    }
+
     .showcase::after{
         /* background: rgba(0, 0, 0, 0.6); */
         box-shadow: inset 80px 80px 250px #000000, inset -80px -80px 250px #000000;
